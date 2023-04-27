@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Jonathan Hu👋</h2>
+<h2>Hey there, I'm Jonathan 👋</h2>
 
 **About Me**
 
