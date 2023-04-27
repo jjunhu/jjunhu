@@ -5,7 +5,7 @@
 * Undergraduate in Computer Science and Business at the University of British Columbia in Vancouver, Canada<br />
 * 🤖 Previous Software Development Intern at Amazon<br />
 * 🚀 Love to explore new technologies and innovate<br />
-* 🌱 Visit my website for more: https://jjunhu.github.io/
+* 🌱 Visit my website here: https://jjunhu.github.io/
 
 **Personal Stuff**
 
