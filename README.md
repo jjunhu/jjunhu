@@ -10,8 +10,6 @@
 
 * 🎧 Music lover and a keen listener;
 * 🌅 Early riser and a morning person;
-* 💬 Ask me about anything, I am happy to help;
-* 📫 How to reach me: jonathanjun.hu@gmail.com;
 
 **Get in Touch**
 
