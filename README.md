@@ -12,7 +12,6 @@
 * 🌅 Early riser and a morning person;
 * 💬 Ask me about anything, I am happy to help;
 * 📫 How to reach me: jonathanjun.hu@gmail.com;
-* 📝 [Resume](https://stuffbydavid.ca/resume.pdf)
 
 **Get in Touch**
 
