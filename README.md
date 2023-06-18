@@ -11,7 +11,7 @@
 
 * 🎧 Music lover and a keen listener
 * 🌅 Early riser and a morning person
-* 📝 My [Resume](https://jjunhu.github.io/resume/Jonathan_Hu_Resume.pdf)
+* 📝 My [Resume](https://jjunhu.github.io/resume/Jonathan%20Hu%20Resume.pdf)
 
 **Get in Touch**
 
