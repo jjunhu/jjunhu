@@ -2,7 +2,7 @@
 
 **About Me**
 
-* Undergraduate in Computer Science and Business at the University of British Columbia in Vancouver, Canada<br />
+* Graduate Student in Computer Science and Business at Cornell University, previously studied at the University of British Columbia in Vancouver, Canada<br />
 * 🤖 Previous Software Development Intern at Amazon<br />
 * 🚀 Love to explore new technologies and innovate<br />
 * 🌱 Visit my website here: https://jjunhu.github.io/
